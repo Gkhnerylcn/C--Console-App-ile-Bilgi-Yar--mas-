@@ -1,0 +1,7 @@
+C:\Users\casper\source\repos\ConsoleApp52(Bilgi Yarışması Oyunu)\ConsoleApp52(Bilgi Yarışması Oyunu)\bin\Debug\ConsoleApp52(Bilgi Yarışması Oyunu).exe.config
+C:\Users\casper\source\repos\ConsoleApp52(Bilgi Yarışması Oyunu)\ConsoleApp52(Bilgi Yarışması Oyunu)\bin\Debug\ConsoleApp52(Bilgi Yarışması Oyunu).exe
+C:\Users\casper\source\repos\ConsoleApp52(Bilgi Yarışması Oyunu)\ConsoleApp52(Bilgi Yarışması Oyunu)\bin\Debug\ConsoleApp52(Bilgi Yarışması Oyunu).pdb
+C:\Users\casper\source\repos\ConsoleApp52(Bilgi Yarışması Oyunu)\ConsoleApp52(Bilgi Yarışması Oyunu)\obj\Debug\ConsoleApp52(Bilgi Yarışması Oyunu).csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\ConsoleApp52(Bilgi Yarışması Oyunu)\ConsoleApp52(Bilgi Yarışması Oyunu)\obj\Debug\ConsoleApp52(Bilgi Yarışması Oyunu).csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ConsoleApp52(Bilgi Yarışması Oyunu)\ConsoleApp52(Bilgi Yarışması Oyunu)\obj\Debug\ConsoleApp52(Bilgi Yarışması Oyunu).exe
+C:\Users\casper\source\repos\ConsoleApp52(Bilgi Yarışması Oyunu)\ConsoleApp52(Bilgi Yarışması Oyunu)\obj\Debug\ConsoleApp52(Bilgi Yarışması Oyunu).pdb
